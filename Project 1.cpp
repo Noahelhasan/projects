@@ -1,9 +1,8 @@
 /******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
+Noah Elhasan
+03/23/25
+student grading project
+This program is a student grading system that allows the user to add students, search for students, and display class statistics.
 
 *******************************************************************************/
 #include <iostream>
